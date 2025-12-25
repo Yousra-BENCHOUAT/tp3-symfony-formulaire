@@ -1,0 +1,11 @@
+/vendor/
+/var/
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
+composer.lock
+.idea/
+.vscode/
+*.swp
+*.swo
